@@ -22,3 +22,7 @@ A Software Test Engineer with primary focus on Automation in Testing.
 ### API Automation:
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-4DB33D?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Performance Testing:
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
