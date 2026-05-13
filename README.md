@@ -15,15 +15,15 @@ A Software Test Engineer with primary focus on Automation in Testing.
 ## 🛠️ Tech Stack
 
 ### UI Automation:
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-472A74?style=for-the-badge&logo=appium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Applitools](https://img.shields.io/badge/Applitools-39D5FF?style=for-the-badge)
 
 ### API Automation:
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-4DB33D?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-4DB33D?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Performance Testing:
